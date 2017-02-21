@@ -1,15 +1,15 @@
 - - STATUTS DU BORDEL - -
 
 article 1 : NOM
-> Il est fondé entre les adhérents aux présents statuts une association régie par la loi du 1er juillet 1901 et le décret du 16 août 1901, ayant pour titre : le CUBI ou l’IVRE ou autre...
+> Il est fondé entre les adhérents aux présents statuts une association régie par la loi du 1er juillet 1901 et le décret du 16 août 1901, ayant pour titre : le CUBI ou l’IVRE ou ULTRA PETITA ou ULTRA PETIT A ou ULTR.a ou ULTRA .a ou ULTRAPETITA
 
 article 2 : BUT OBJET
 > L’association vise à stimuler/encourager la réalisation d’expériences de création à caractère divers. 
-> A cette fin, l’association propose une action triple :
-1. produire et accompagner les idées proposées selon les modalités explicités dans le règlement intérieur.
+> A cette fin, l’association propose une action triple selon les modalités explicitées dans le règlement intérieur :
+1. Encourager la réalisation d'idées 
 // produire et accompagner vs soutenir
-2. archiver (et diffuser) les idées réalisées selon les modalités explicités dans le règlement intérieur.
-3. organiser des événements pouvant comprendre une activité économique servant à alimenter la caisse de production selon les modalités explicités dans le règlement intérieur.
+2. Archiver (et diffuser) les idées réalisées.
+3. Organiser des événements pouvant comprendre une activité économique servant à alimenter la caisse de production selon les modalités explicités dans le règlement intérieur.
 
 article 3 : SIEGE SOCIAL
 > Le siège social est fixé à Paris.
