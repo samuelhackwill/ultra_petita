@@ -7,10 +7,16 @@
 et je vais tester les accents.. éé àà èè.
 
 
+# commandes git
+
 git status
 
+
 git add
-git commit
+
+git commit -m "commentaire"
+
 git push
+
 
 git pull
