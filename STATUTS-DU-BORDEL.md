@@ -5,15 +5,13 @@ article 1 : NOM
 
 article 2 : BUT OBJET
 > L’association vise à stimuler/encourager la réalisation d’expériences de création à caractère divers. 
-> A cette fin, l’association propose une action triple selon les modalités explicitées dans le règlement intérieur :
+> A cette fin, l’association propose une action double selon les modalités explicitées dans le règlement intérieur :
 1. Encourager la réalisation d'idées 
-// produire et accompagner vs soutenir
-2. Archiver (et diffuser) les idées réalisées.
-3. Organiser des événements pouvant comprendre une activité économique servant à alimenter la caisse de production selon les modalités explicités dans le règlement intérieur.
+2. Archiver les idées réalisées.
 
 article 3 : SIEGE SOCIAL
 > Le siège social est fixé à Paris.
-> Il pourra être transféré par décision du conseil d’administration.
+> Il pourra être transféré par décision /!\ du conseil d’administration. /!\
 
 article 4 : DUREE
 > La durée de l’association se limite dans un premier temps à l’accompagnement et archivage de 49 idées.
