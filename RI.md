@@ -7,19 +7,22 @@ Règlement Intérieur
 
 
 
-= La Production et l’Accompagnement =
+= Encouragement des idées =
 
 Nature et origine des idées soutenues
 > Il n’y a pas de limites à la nature des idées soutenues.
-> Toute personne introduite par un membre dur et souhaitant réaliser une idée dans le cadre de l’association sera soutenue par l’association, à condition de remplir les formalités administratives liées à l’archive.
+> Toute personne soutenue par un membre dur (autre que lui même) et souhaitant réaliser une idée dans le cadre de l’association sera encouragée par l’association, à condition de remplir les formalités administratives liées à l’archive.
 
 Nature du soutien
 > Le soutien est avant tout moral et un accompagnement en conseils pour la conception et la réalisation de l’idée…
 > la visée de ce soutien est de servir d’encouragement à la réalisation, de stimulateur, de catalyseur à la réalisation d’idée. L’enjeu est de s’essayer à créer en s’engageant vis à vis d’un groupe sympathique.
 > Le soutiens est ensuite financier, il est limité à un minimum de 1€ et à un maximum de 100€.
 > L’apport financier est limité à un minimum de 1€ et un maximum de 100€.
+> apportez vos factures s'il vous plaît...
 > la fixation du montant de l’apport financier doit être approuvée par l’ensemble des membres durs.
 > fixation du montant = estimation des besoins par l’auteur/acteur/etc + concertation entre membres durs et président et trésorier + proposition d’un budget pour la réalisation de l’idée + approbation par les membres durs ou tout au moins absence de désaccord + attribution du montant décidé.
+> l'idée est validée si aucun membre d'or ne refuse ou demande à discuter dans les 48 heures après soumission du formulaire d'ouverture de dossier.
+
 
 Temporalité du projet
 > Les personnes soutenus dans la réalisation d’une idée s’engagent à la mettre en œuvre dans un délai de 30 jours.
@@ -42,7 +45,6 @@ Une trace de la réalisation de l’idée. La forme de cette trace est libre et 
 
 nature des événements
 > Si les idées n’ont pas de limitations, l’organisation d’un événement pour la présentation d’une idée est une idée également. À ce titre les événements doivent répondre aux mêmes conditions d’archivage.
-> Les événements peuvent comprendre une activité économique, par exemple la vente d’objet, de boisson ou d’alimentation. Les recettes de ces activités reviennent à l’association et alimentent la caisse de production.
 
 
 ceux-ci peuvent servir à la diffusion d’une idée soutenue par l’asso, ou une autre idée, ou quelque chose de différent encore...
